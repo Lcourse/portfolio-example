@@ -140,3 +140,7 @@ section.especialidades {
     font-size: 68px;
     color: #00FF08;
 }
+
+.especialidades .especialidades-box h3 {
+    font-size: 28px;
+}
