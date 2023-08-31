@@ -31,6 +31,11 @@ body {
     transition: .2s;
 }
 
+h2.titulo {
+    color: #fff;
+    font-size: 28px;
+}
+
 /* Estilo do Cabeçalho */
 
 header {
@@ -112,4 +117,10 @@ section.topo-do-site .flex {
     100%{
         top:30px;
     }
+}
+
+/* Estilo das especialidades */
+
+section.especialidades {
+    padding: 40px ;
 }
