@@ -24,7 +24,7 @@ body {
     padding: 10px 40px;
     font-size: 18px;
     font-weight: 600;
-    background-color: #00ff08;
+    background-color: #7500bd;
     border: 0;
     border-radius: 30px;
     cursor: pointer;
@@ -38,7 +38,7 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color: #00FF08;
+    color: #7500bd;
 }
 
 /* Estilo do Cabeçalho */
@@ -77,7 +77,7 @@ header nav ul li {
 
 
 .btn-contato button:hover {
-    box-shadow: 0px 0px 8px #00FF08;
+    box-shadow: 0px 0px 8px #7500bd;
     transform: scale(1.05);
 
 }
@@ -101,7 +101,7 @@ section.topo-do-site .flex {
 }
 
 .topo-do-site .txt-topo-site h1 span {
-    color: #00FF08; 
+    color: #7500bd; 
 }
 
 .topo-do-site txt-topo-site p {
@@ -145,7 +145,7 @@ section.especialidades .flex {
 
 .especialidades .especialidades-box:hover {
     transform: scale(1.05);
-    box-shadow: 0 0 14px #ffffff75;
+    box-shadow: 0 0 14px #7500bd;
 }
 
 .especialidades .especialidades-box i {
@@ -180,7 +180,7 @@ section.sobre .flex {
 }
 
 .sobre .txt-sobre h2 span {
-    color: #00FF08;
+    color: #7500bd;
     display: block;
 }
 
