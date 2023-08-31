@@ -174,9 +174,11 @@ section.sobre .flex {
 }
 
 .sobre .txt-sobre h2 {
-    font-size: 25px;
+    font-size: 40px;
+    line-height: 40px;
 }
 
 .sobre .txt-sobre h2 span {
     color: #00FF08;
+    display: block;
 }
