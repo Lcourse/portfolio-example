@@ -33,7 +33,12 @@ body {
 
 h2.titulo {
     color: #fff;
-    font-size: 28px;
+    font-size: 38px;
+    text-align: center;
+}
+
+h2.titulo span {
+    color: #00FF08;
 }
 
 /* Estilo do Cabeçalho */
