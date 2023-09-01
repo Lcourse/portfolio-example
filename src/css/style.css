@@ -219,8 +219,13 @@ section.portfolio .flex{
     transition: .8s;
     border-radius: 40px;
     cursor: pointer;
+    position: relative;
 }
 
 .img-port:hover {
     background-position: 100% 100%;
+}
+
+.overlay {
+    position: absolute;
 }
