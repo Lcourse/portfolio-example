@@ -208,11 +208,12 @@ section.portfolio{
 }
 
 section.portfolio .flex{
-    gap: 80px;
+    justify-content: space-around;
 }
 
 .img-port {
     width: 360px;
     height: 460px;
-    background-color: #00FF08;
+    background-size: cover;
+    background-position: 100% 0%;
 }
