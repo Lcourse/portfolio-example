@@ -278,3 +278,7 @@ form textarea {
   max-height: 200px
 }
 
+form .btn-enviar {
+  margin-top: 40px;
+}
+
