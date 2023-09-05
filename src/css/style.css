@@ -306,6 +306,7 @@ footer .flex {
   justify-content: space-between;
 }
 
-footer .line-footer p {
-  color: #fff;
+footer .line-footer p i{
+  color: #00ff08;
+  font-size: 22px;
 }
