@@ -335,9 +335,15 @@ footer .line-footer p  a{
   }
 
   /* Topo do Site  */
+  section.topo-do-site{
+    padding: 20px 8%;
+  }
+
   .topo-do-site h1{
-    color: #fff;
-    font-size: 32px;
-    line-height: 40px;
+    font-size: 30px;
+  }
+
+  .topo-do-site .img-topo-site img{
+    
   }
 }
