@@ -187,7 +187,7 @@ section.sobre .flex {
   font-size: 25px;
 }
 
-.sobre .txt-sobre .btn-social button {
+.btn-social button {
   width: 60px;
   height: 60px;
   border-radius: 50%;
@@ -300,4 +300,8 @@ form .btn-enviar input {
 footer {
   padding: 60px 4%;
   box-shadow: 0 0 40px 10px #ffffff1d;
+}
+
+footer .flex {
+  justify-content: space-between;
 }
