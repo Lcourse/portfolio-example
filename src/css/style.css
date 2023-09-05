@@ -324,5 +324,24 @@ footer .line-footer p  a{
 }
 
 @media screen and (max-width: 1020px){
-  
+  /* Classes Gerais */
+  .flex{
+    flex-direction: column;
+  }
+
+  .topo-do-site .flex{
+    flex-direction: column-reverse;
+  }
+
+  /* Cabeçalho */
+  .menu-desktop, .btn-contato{
+    display: none;
+  }
+
+  /* Topo do Site  */
+  .topo-do-site h1{
+    color: #fff;
+    font-size: 42px;
+    line-height: 40px;
+  }
 }
