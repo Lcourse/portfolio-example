@@ -365,4 +365,15 @@ footer .line-footer p a {
   section.sobre {
     padding: 80px 8%;
   }
+
+  .sobre .txt-sobre h2 {
+    font-size: 34px;
+    line-height: 35px;
+    text-align: center;
+  }
+
+  .btn-social {
+    text-align: center;
+  }
 }
+
