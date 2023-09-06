@@ -390,5 +390,9 @@ footer .line-footer p a {
     max-width: 360px;
     margin: 0 auto;
   }
+
+  section.portfolio .flex {
+    gap: 60px;
+  }
 }
 
