@@ -375,5 +375,11 @@ footer .line-footer p a {
   .btn-social {
     text-align: center;
   }
+
+  .img-sobre img {
+    width: 100%;
+  }
+
+  /* Portfólio */
 }
 
