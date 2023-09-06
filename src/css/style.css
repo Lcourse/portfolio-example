@@ -94,6 +94,10 @@ header nav ul li {
   text-align: right;
 }
 
+.menu-mobile nav ul li a {
+  
+}
+
 /* Estilo do Topo do Site */
 
 section.topo-do-site {
