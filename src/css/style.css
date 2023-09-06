@@ -381,5 +381,14 @@ footer .line-footer p a {
   }
 
   /* Portfólio */
+  section.portfolio{
+    padding: 80px 8%;
+  }
+
+  .img-port {
+    width: 100%;
+    max-width: 360px;
+    margin: 0 auto;
+  }
 }
 
