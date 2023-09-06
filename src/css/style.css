@@ -394,5 +394,11 @@ footer .line-footer p a {
   section.portfolio .flex {
     gap: 60px;
   }
+
+  /* Rodapé */
+
+  footer .flex {
+    flex-direction: column;
+  }
 }
 
