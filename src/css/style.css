@@ -307,51 +307,52 @@ footer .flex {
 }
 
 footer .line-footer {
-  padding: 20px 0; 
+  padding: 20px 0;
 }
 
 .borda {
   border-top: 2px solid #00ff08;
 }
 
-footer .line-footer p i{
+footer .line-footer p i {
   color: #00ff08;
   font-size: 22px;
 }
 
-footer .line-footer p  a{
+footer .line-footer p a {
   color: #fff;
 }
 
-@media screen and (max-width: 1020px){
+@media screen and (max-width: 1020px) {
   /* Classes Gerais */
-  .topo-do-site .flex{
+  .topo-do-site .flex {
     flex-direction: column-reverse;
   }
 
   /* Cabeçalho */
-  .menu-desktop, .btn-contato{
+  .menu-desktop,
+  .btn-contato {
     display: none;
   }
 
   /* Topo do Site  */
-  section.topo-do-site .flex{
+  section.topo-do-site .flex {
     gap: 40px;
   }
 
-  section.topo-do-site{
+  section.topo-do-site {
     padding: 20px 8%;
   }
 
-  .topo-do-site h1{
+  .topo-do-site h1 {
     font-size: 30px;
   }
 
-  .topo-do-site .img-topo-site img{
+  .topo-do-site .img-topo-site img {
     width: 100%;
   }
   /* Especialidades (Responsivo)  */
   section.especialidades {
-    padding: 40px;
+    padding: 40px 4%;
   }
 }
