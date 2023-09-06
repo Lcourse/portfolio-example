@@ -329,6 +329,11 @@ footer .line-footer p a {
     flex-direction: column-reverse;
   }
 
+  h2.titulo {
+    font-size: 34px;
+    line-height: 30px;
+  }
+
   /* Cabeçalho */
   .menu-desktop,
   .btn-contato {
@@ -353,6 +358,11 @@ footer .line-footer p a {
   }
   /* Especialidades (Responsivo)  */
   section.especialidades {
-    padding: 40px 4%;
+    padding: 40px 8%;
+  }
+
+  /* Sobre */
+  section.sobre {
+    padding: 80px 8%;
   }
 }
