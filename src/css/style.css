@@ -80,8 +80,9 @@ header nav.menu-desktop ul li {
 }
 
 /* Estilo do Menu Mobile  */
+
 .menu-mobile{
-  background-color: red;
+  background-color: #000;
   height: 100vh;
   position: fixed;
   top: 0;
