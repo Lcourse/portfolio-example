@@ -335,6 +335,12 @@ footer .line-footer p  a{
   }
 
   /* Topo do Site  */
+  section.topo-do-site .flex{
+    gap: 40px;
+  }
+
+
+
   section.topo-do-site{
     padding: 20px 8%;
   }
@@ -344,6 +350,6 @@ footer .line-footer p  a{
   }
 
   .topo-do-site .img-topo-site img{
-    
+    width: 100%;
   }
 }
