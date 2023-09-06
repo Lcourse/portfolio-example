@@ -339,8 +339,6 @@ footer .line-footer p  a{
     gap: 40px;
   }
 
-
-
   section.topo-do-site{
     padding: 20px 8%;
   }
@@ -351,5 +349,9 @@ footer .line-footer p  a{
 
   .topo-do-site .img-topo-site img{
     width: 100%;
+  }
+  /* Especialidades (Responsivo)  */
+  section.especialidades {
+    padding: 40px;
   }
 }
