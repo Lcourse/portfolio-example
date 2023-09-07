@@ -123,6 +123,10 @@ header nav.menu-desktop ul li {
   color: #000;
 }
 
+.overlay-menu{
+  background-color: #000;
+}
+
 /* Estilo do Topo do Site */
 
 section.topo-do-site {
