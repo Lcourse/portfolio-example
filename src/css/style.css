@@ -97,6 +97,10 @@ header nav.menu-desktop ul li {
   overflow: hidden;
 }
 
+.menu-mobile.abrir-menu{
+  width: 70%;
+}
+
 .menu-mobile .btn-fechar {
   padding: 20px 5%;
 }
