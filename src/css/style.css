@@ -82,7 +82,8 @@ header nav.menu-desktop ul li {
 /* Estilo do Menu Mobile  */
 
 .btn-abrir-menu i {
-  
+  color: #00ff08;
+  font-size: 40px;
 }
 
 .menu-mobile {
